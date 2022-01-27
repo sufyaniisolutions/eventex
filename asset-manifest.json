@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EM-Fronend/static/css/main.c0654976.css",
-    "main.js": "/EM-Fronend/static/js/main.d59e68e1.js",
-    "static/js/787.a9bd8163.chunk.js": "/EM-Fronend/static/js/787.a9bd8163.chunk.js",
-    "index.html": "/EM-Fronend/index.html",
-    "main.c0654976.css.map": "/EM-Fronend/static/css/main.c0654976.css.map",
-    "main.d59e68e1.js.map": "/EM-Fronend/static/js/main.d59e68e1.js.map",
-    "787.a9bd8163.chunk.js.map": "/EM-Fronend/static/js/787.a9bd8163.chunk.js.map"
+    "main.css": "/eventex/static/css/main.c0654976.css",
+    "main.js": "/eventex/static/js/main.953b7899.js",
+    "static/js/787.a9bd8163.chunk.js": "/eventex/static/js/787.a9bd8163.chunk.js",
+    "index.html": "/eventex/index.html",
+    "main.c0654976.css.map": "/eventex/static/css/main.c0654976.css.map",
+    "main.953b7899.js.map": "/eventex/static/js/main.953b7899.js.map",
+    "787.a9bd8163.chunk.js.map": "/eventex/static/js/787.a9bd8163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0654976.css",
-    "static/js/main.d59e68e1.js"
+    "static/js/main.953b7899.js"
   ]
 }
